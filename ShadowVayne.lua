@@ -20,9 +20,9 @@ function OnLoad()
 	TCPU:AddScript("SourceLib","Lib","raw.githubusercontent.com","/TheRealSource/public/master/common/SourceLib.lua","/TheRealSource/public/master/common/SourceLib.version","local version")
 	TCPU:AddScript("Selector","Lib","raw.githubusercontent.com","/pqmailer/BoL_Scripts/master/Paid/Selector.lua","/pqmailer/BoL_Scripts/master/Paid/Selector.revision","@version", "VIP")
 	TCPU:AddScript("CustomPermaShow","Lib","raw.githubusercontent.com","/Superx321/BoL/master/common/CustomPermaShow.lua","/Superx321/BoL/master/common/CustomPermaShow.Version","version =", "Free")
-	TCPU:AddScript("ShadowVayneLib","Lib","raw.githubusercontent.com","/Superx321/BoL/master/common/ShadowVayneLib.lua","/Superx321/BoL/master/common/ShadowVayneLib.Version","version =", "Free")
+	TCPU:AddScript("ShadowVayneLib","Lib","raw.githubusercontent.com","/VincenChef/BoL_Scripts/master/ShadowVayneLib.lua","/VincenChef/BoL_Scripts/master/ShadowVayneLib.Version","version =", "Free")
 	TCPU:AddScript("Prodiction","Lib","bitbucket.org","/Klokje/public-klokjes-bol-scripts/raw/1467bf108b116274f8763693b00b7d977faf7735/Test/Prodiction/Prodiction.lua",nil,"--Prodiction", "VIP", 1.1)
-	TCPU:AddScript(_OwnEnv,"Script","raw.githubusercontent.com","/Superx321/BoL/master/ShadowVayne.lua","/Superx321/BoL/master/ShadowVayne.Version","ShadowVersion =")
+	TCPU:AddScript(_OwnEnv,"Script","raw.githubusercontent.com","/VincenChef/BoL_Scripts/master/ShadowVayne.lua","/VincenChef/BoL_Scripts/master/ShadowVayne.Version","ShadowVersion =")
 end
 
 function OnTick()
